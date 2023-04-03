@@ -1,0 +1,45 @@
+body {
+    text-align: center;
+}
+
+h1{
+    margin-left: 75px;
+}
+#pageTitle {
+    padding: 10px;
+    background: #63f182;
+    width: 25%;
+    margin: auto;
+    margin-bottom: 20px;
+    margin-left: 515px;
+}
+button {
+    margin: 15px;
+    padding: 5px 20px;
+    border-radius: 5px;
+    color: black;
+    cursor: pointer;
+    border: none;
+}
+
+#load_prev {
+    background-color: #9fa4eb;
+}
+
+#load_next {
+    background-color: #fa94bb;
+}
+
+ol {
+    width: 25%;
+    margin: auto;
+}
+
+ol > li {
+    display: block;
+    padding: 10px;
+    margin: 5px;
+    background-color: #48f3f3;
+    color: #131616;
+    border-radius: 30px;
+}
